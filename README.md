@@ -18,7 +18,7 @@ Ensure you have the following installed:
 
 ### **2️⃣ Clone the Repository**
 ```sh
- git clone https://github.com/your-repo/test-case-management.git
+ git clone https://github.com/nitin1053/Test_management_system.git
  cd Test_management_system
 ```
 
